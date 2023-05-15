@@ -7,6 +7,7 @@ set(CMAKE_CXX_FLAGS "-std=c++11 -O3")
 
 set(SOURCE
     src/leetcode55.cpp
+    src/leetcode5.cpp
     main.cpp)
 
 include_directories(include)

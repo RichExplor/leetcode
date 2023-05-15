@@ -2,14 +2,13 @@
 
 #include <iostream>
 #include <vector>
-#include <deque>
 #include <algorithm>
+#include <string>
 
 namespace leetcode {
-class leetcode55 {
+class leetcode5 {
 public:
-    leetcode55() = default;
-    bool canJump(const std::vector<int>& nums);
+    leetcode5() = default;
+    std::string longestPalindrome(std::string s);
 };
-
 }  // namespace leetcode

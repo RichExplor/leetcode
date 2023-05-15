@@ -2,7 +2,7 @@
 
 namespace leetcode {
 
-bool leetcode55::canJump(const vector<int>& nums) {
+bool leetcode55::canJump(const std::vector<int>& nums) {
     // 0. 贪心算法
     int max_dist = 0;
     int nums_size = static_cast<int>(nums.size());
