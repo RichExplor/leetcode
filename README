@@ -1,11 +1,14 @@
 # leetcode刷题记录
 ## 1.动态规划
-    1.1 leetcode_55：数组跳跃
-    1.2 leetcode_5：最长回文子串
+    1.1 leetcode_55:数组跳跃
+    1.2 leetcode_5:最长回文子串
 ## 2.树
 ## 3.图
+    3.1 leetcode_207:课程表
+    3.1 leetcode_210:课程表II
+    3.1 leetcode_785:判断二分图
 ## 4.排序
-    4.1 leetcode_15：三数之和
+    4.1 leetcode_15:三数之和
 ## 5.多线程
-    5.1 leetcode_1114：按序打印
-    5.2 leetcode_1115：交替打印
+    5.1 leetcode_1114:按序打印
+    5.2 leetcode_1115:交替打印
